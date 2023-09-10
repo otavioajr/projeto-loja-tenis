@@ -56,6 +56,10 @@ header a {
 
 /* Estilizando a parte sobre a loja */
 
+#about {
+    margin-bottom: 64px;
+}
+
 #about .container {
     display: grid;
     grid-template-columns: 40% 55%;
@@ -122,10 +126,6 @@ header a {
 
     header nav ul {
         display: block;
-    }
-
-    #about {
-        margin-bottom: 64px;
     }
 
     #about .container {
